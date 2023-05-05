@@ -30,3 +30,6 @@ if number < 10:
 
 if number<=10:
  print(f"{name} you gave a number below 10! Have more imagination. As a " + age + " year old I would think you would choose a higher number!")
+
+
+ TESTEST
